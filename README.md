@@ -1,4 +1,4 @@
-## 👋 Olá, Sou Anderson Souza, Seja Bem Vindo! 👨‍💻 
+## 👋 Olá, Sou Anderson Souza, Seja Bem Vindo! 👨🏾‍💻
 
 Here are some ideas to get you started:
 
