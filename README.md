@@ -3,10 +3,6 @@
 
 <h3 align="center" style="color: #00BFFF">A constantly evolving web developer. 📖👨‍💻</h3>
 
-- 📫 How to reach me **anderson.b13k2@gmail.com**
-
-- ⚡ Fun fact **Enjoy music, movies, series and I'm friendly!**
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andersonjmc&label=Profile%20views&color=0e75b6&style=flat" alt="andersonjmc" /> </p>
 
 <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=andersonjmc&theme=gotham&show_icons=true" alt="andersonjmc" />
